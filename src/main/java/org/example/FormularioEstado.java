@@ -1,2 +1,6 @@
-package org.example;public interface FormularioEstado {
+package org.example;
+
+public interface FormularioEstado {
+
+    String getNomeEstado();
 }
